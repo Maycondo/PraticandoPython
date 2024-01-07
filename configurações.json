@@ -1,0 +1,12 @@
+{
+    "janela.zoomLevel" : 2 ,
+    "workbench.startupEditor" : " nenhum " ,
+    "explorer.compactFolders" :  false,
+    "workbench.iconTheme" : " material-icon-theme " ,
+    "editor.fontSize" : 18 ,
+    "workbench.colorTheme" : " Tema OM (Drácula Itálico padrão) " ,
+    "code-runner.executorMap" : {
+    },
+    "code-runner.runInTerminal" : true,
+    "code-runner.ignoreSelection" : true
+}
