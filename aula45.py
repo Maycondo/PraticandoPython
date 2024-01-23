@@ -7,14 +7,17 @@ iter -> me entregue seu iterador
 # for letra in texto
 texto = 'Luiz'  # iterável
 
-# iteratador = iter(texto)  # iterator
+iteratador = iter(texto)  # iterator
 
-# while True:
-#     try:
-#         letra = next(iteratador)
-#         print(letra)
-#     except StopIteration:
-#         break
+while True:
+    try:
+       letra = next(iteratador)
+       print(letra)
+    except StopIteration:
+     break
 
-for letra in texto:
-    print(letra)
+
+
+
+#for letra in texto:
+ #   print(letra)
