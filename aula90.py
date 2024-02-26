@@ -14,8 +14,6 @@ class animal:
 
 
 
-
-
 Animal1 = animal(name='lion')
 
 print(Animal1.name)
